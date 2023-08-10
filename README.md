@@ -1,5 +1,4 @@
 # BioBART
-b7001699_csc8391
 
 ## Description
 This is an expansion on protein annotation program that utilised the output of automatic annotation program and generate descriptive text about the annotations that were  completed.
