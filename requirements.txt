@@ -1,0 +1,6 @@
+pandas 2.0.2
+BioPython 1.81
+transformers 4.30.2
+torch 2.0.1
+sacremoses 0.0.53
+Python 3.9
