@@ -134,7 +134,6 @@ class ProAnno:
             with open(f'{self.output_file}.fasta', "a") as output_handle:
                     SeqIO.write(w_output, output_handle,'fasta')
             node_no +=1
-            # print(node_no)
             
         output_handle.close()
         torch.cuda.empty_cache
